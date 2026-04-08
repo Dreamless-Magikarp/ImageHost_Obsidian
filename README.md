@@ -1,2 +1,2 @@
-# ImageHost-
+# ImageHost
 ImageHost‌ For Obsidian
